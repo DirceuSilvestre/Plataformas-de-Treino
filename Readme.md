@@ -8,6 +8,6 @@
 
 **Exemplos de soluções que programei nas plataformas:**
 <br />
-- URI
+- URI/ Beecrowd
 - CodInGame
 - HackerRank
