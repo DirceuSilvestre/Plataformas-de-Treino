@@ -9,5 +9,6 @@
 **Exemplos de soluções que programei nas plataformas:**
 <br />
 - URI/ Beecrowd
+- CodeForces
 - CodInGame
 - HackerRank
